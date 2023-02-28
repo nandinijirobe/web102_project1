@@ -1,7 +1,11 @@
 h1,h2,h3 {
   font-family: 'Yeseva One', cursive;
+  
 }
 
+.kannada {
+  font-weight: normal;
+}
 
 body {
   margin: 0;
@@ -17,7 +21,6 @@ tr {
 
 td {
   padding: 10px;
-  /* padding-bottom: 10px; */
 }
 
 
